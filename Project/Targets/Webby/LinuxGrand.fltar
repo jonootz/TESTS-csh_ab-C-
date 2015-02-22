@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ReplaceSpacesWithUnderscores="false"
+  MakeFileLowerCase="false">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

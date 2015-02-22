@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Front Matter"
+    Link="/Content/Front Matter/Cover.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl"
+    PageType="title"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Front Matter/Table of Contents.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Introduction.htm" />
+  <TocEntry
+    Title="How To Use This Template"
+    Link="/Content/How To Use This Template/How To Use Template.htm"></TocEntry>
+  <TocEntry
+    Title="Sample Policies">
+    <TocEntry
+      Title="General IT Policies"
+      Link="/Content/Sample Policies/General IT Policies.htm" />
+    <TocEntry
+      Title="Email Policy"
+      Link="/Content/Sample Policies/Email Policy.htm" />
+    <TocEntry
+      Title="Reporting Misconduct"
+      Link="/Content/Sample Policies/Reporting Misconduct.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Index"
+    Link="/Content/Index.htm" />
+</CatapultToc>

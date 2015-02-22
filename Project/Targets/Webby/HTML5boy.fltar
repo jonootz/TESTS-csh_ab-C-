@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  UseCustomTopicFileExtension="false"
+  ReplaceSpacesWithUnderscores="false"
+  MakeFileLowerCase="false"
+  InsertMOTW="false"
+  EnableFeedbackService="true"
+  LiveHelpServer="http://2008R2ENG/"
+  LiveHelpKey="W10K0p-5L5E2q-0G0B1y-VgqzOP-F5sN/U-DVpp9J-nisXOg-+15yZW-oDS4IM-cDBBCX-osEg==">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

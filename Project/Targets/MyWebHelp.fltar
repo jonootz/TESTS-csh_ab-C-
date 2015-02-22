@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression=""
+  UseCustomTopicFileExtension="false"
+  MakeFileLowerCase="false"
+  ReplaceSpacesWithUnderscores="false"
+  AliasFile="/Project/Advanced/MyAliasFile.flali"
+  GenerateAllSkins="false"
+  InsertMOTW="true"></CatapultTarget>

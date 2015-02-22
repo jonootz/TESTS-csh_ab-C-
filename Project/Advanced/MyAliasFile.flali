@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="GrandChild" Link="/Content/Index.htm" />
+    <Map Name="GrandChild1" Link="/Content/Introduction.htm" />
+    <Map Name="GrandChild8" Link="/Content/Policy Guidelines.htm" />
+    <Map Name="GrandChild9" Link="/Content/Policy Template.htm" />
+    <Map Name="GrandChild10" Link="/Content/Front Matter/Cover.htm" />
+    <Map Name="GrandChild11" Link="/Content/Front Matter/Table of Contents.htm" />
+    <Map Name="GrandChild12" Link="/Content/How To Use This Template/Add Logo To Cover Page.htm" />
+    <Map Name="GrandChild13" Link="/Content/How To Use This Template/Adding Comments.htm" />
+    <Map Name="GrandChild14" Link="/Content/How To Use This Template/Adding Notes.htm" />
+    <Map Name="GrandChild15" Link="/Content/How To Use This Template/Adding Warnings.htm" />
+    <Map Name="GrandChild2" Link="/Content/How To Use This Template/How to Add Your Logo to the Header.htm" />
+    <Map Name="GrandChild3" Link="/Content/How To Use This Template/How To Use Template.htm" />
+    <Map Name="GrandChild4" Link="/Content/How To Use This Template/Updating the TOC.htm" />
+    <Map Name="GrandChild5" Link="/Content/Sample Policies/Email Policy.htm" />
+    <Map Name="GrandChild6" Link="/Content/Sample Policies/General IT Policies.htm" />
+    <Map Name="GrandChild7" Link="/Content/Sample Policies/Reporting Misconduct.htm" />
+</CatapultAliasFile>
